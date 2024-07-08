@@ -28,7 +28,7 @@ python3 --version
 unzip the zip provided
 Then do the following command format
 ```bash
-cd DELIVEROO_CRON_PARSER
+cd deliveroo_cron_parser
 python3 __main__.py "0 15 10 * * /usr/bin/find"
 ```
 
