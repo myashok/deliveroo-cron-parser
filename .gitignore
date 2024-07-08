@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+env.bak/
+env1/
+venv1/
+ENV/
+env/
+target/
+.idea/
+
+# Ignore pipenv virtual environment
+/.venv
+
+# Ignore coverage output
+coverage.xml
+htmlcov/
+
+# Ignore logs and other generated files
+*.log
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
